@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://ip-fast.com/docs/
 common:
+  - type: DomainSecurity
+    url: security/ip-fast-com-domain-security.yml
   - type: Website
     url: https://ip-fast.com/docs/
   - type: PublicAPIsListing
