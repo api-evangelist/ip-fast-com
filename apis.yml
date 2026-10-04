@@ -39,7 +39,6 @@ apis:
   - name: ip-fast.com
     description: "IP address, country and city"
     humanURL: https://ip-fast.com/docs/
-    baseURL: https://ip-fast.com/docs/
     tags:
       - Development
     properties:
